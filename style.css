@@ -891,3 +891,7 @@ body {
   background: rgba(154,107,79,1);
 }
 
+.secondary{
+  display:inline-block;
+  text-decoration:none;
+}
